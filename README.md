@@ -88,7 +88,7 @@ The next step will to find out which is the offending line.
 - https://doc.qt.io/archives/qq/qq10-scripting-qt.html
 - https://forum.qt.io/topic/5731/fastest-way-to-execute-a-python-script-within-a-c-qt-app-on-win32-pythonqt-or-pythonize
 - search for "Simon Edwards"?
-- http://www.linuxjournal.com/article/8497
+- http://www.linuxjournal.com/article/8497 "Embedding Python in Your C Programs"
 - http://www.codeproject.com/Articles/11805/Embedding-Python-in-C-C-Part-I
 - http://www.riverbankcomputing.co.uk/software/sip/intro
 - http://sourceforge.net/projects/pythonqt/files/pythonqt/
